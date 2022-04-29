@@ -1,0 +1,12 @@
+{
+  "name": "react-native-easy-components",
+  "version": "1.0.0",
+  "description": "a collection of common and reusable components to make your life easier when building your react-native app",
+  "main": "index.js",
+  "repository": {
+    "url": "https://example.com/your-username/my-new-project",
+    "type": "git"
+  },
+  "author": "J. Parker Boyes <jpboyes56@gmail.com>",
+  "license": "MIT"
+}
